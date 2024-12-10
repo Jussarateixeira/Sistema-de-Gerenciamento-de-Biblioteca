@@ -1,0 +1,11 @@
+io\programe\biblioteca\resources\LivroResource.class
+io\programe\biblioteca\resources\EmprestimoResource.class
+dao\EmprestimoDAO.class
+dao\LivroDAO.class
+domain\Livro.class
+domain\Leitor.class
+io\programe\biblioteca\JakartaRestConfiguration.class
+io\programe\biblioteca\resources\LeitorResource.class
+dao\LeitorDAO.class
+io\programe\biblioteca\resources\JakartaEE10Resource.class
+domain\Emprestimo.class
